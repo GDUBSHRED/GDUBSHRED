@@ -1,0 +1,10 @@
+ name: Plugin Minecraft
+ version: 1.0
+ author: GDUBSHRED
+ main: me.me.PluginMinecraft.Main
+ description: First Plugin
+
+ commands:
+  hello:
+  aliases: [hi]
+  description: This is the hello command!
